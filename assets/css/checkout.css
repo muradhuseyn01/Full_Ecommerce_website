@@ -1,0 +1,153 @@
+.checkout__container {
+    width: 82%;
+    margin: 40px auto;
+}
+
+.checkout__container-head {
+    font-family: 'Poppins';
+}
+
+.checkout__container-head>span:nth-of-type(1),
+.checkout__container-head>span:nth-of-type(2),
+.checkout__container-head>span:nth-of-type(3),
+.checkout__container-head>span:nth-of-type(4) {
+    opacity: 0.5;
+}
+
+.checkout__container-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.checkout__container-details-left {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.checkout__container-details-left>h3 {
+    font-family: 'Inter-Bold';
+    letter-spacing: 1.44px;
+    margin: 20px 0;
+    font-size: 2rem;
+}
+
+.details-form {
+    width: 90%;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.details-form>label {
+    font-size: 1.01rem;
+    color: var(--color-bord);
+    font-family: 'Poppins';
+}
+
+.details-form>label:hover {
+    filter: drop-shadow(3px 2px 2px var(--color-salmon));
+}
+
+#name-txt,
+#namecompany-txt,
+#address-txt,
+#email-txt,
+#nameoptional-txt,
+#namecity-txt,
+#number-txt {
+    width: 100%;
+    margin-top: 8px;
+    padding: 6px;
+    background-color: var(--color-bg-search);
+}
+
+.details-form-save {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin: 30px 0 60px 0;
+}
+
+.checkout__container-details-right {
+    width: 50%;
+    padding: 10px;
+    font-family: 'Poppins-medium';
+}
+
+.checkout-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.checkout-detail {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.checkout-detail img {
+    width: 60px;
+    height: 50px;
+}
+
+.checkline p {
+    margin-bottom: 10px;
+}
+
+.checkout-radio-icons {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.checkout-radio {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.checkout-icons {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.checkout-btn {
+    width: 40%;
+    font-family: 'Poppins-medium';
+    background-color: var(--color-red);
+    color: var(--color-white);
+    border: none;
+}
+
+.coupon-btn a {
+    color: var(--color-white);
+}
+
+#checkbox-save {
+    width: 22px;
+    height: 22px;
+}
+
+#number-txt:invalid+span::after {
+    position: absolute;
+    content: "✖";
+    padding-left: 5px;
+    padding-top: 8px;
+    color: #8b0000;
+}
+
+#number-txt:valid+span::after {
+    position: absolute;
+    content: "✓";
+    padding-left: 5px;
+    padding-top: 8px;
+    color: green;
+}

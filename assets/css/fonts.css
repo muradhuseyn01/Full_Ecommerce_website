@@ -1,0 +1,51 @@
+/* Poppins */
+@font-face {
+    font-family: 'Poppins';
+    src: url("/assets/fonts/Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins-medium';
+    src: url("/assets/fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins-bold';
+    src: url("/assets/fonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins-black';
+    src: url("/assets/fonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins-extrabold';
+    src: url("/assets/fonts/Poppins/Poppins-ExtraBold.ttf");
+}
+
+/* Inter */
+@font-face {
+    font-family: 'Inter-bold';
+    src: url("/assets/fonts/Inter/Inter-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Inter-thin';
+    src: url("/assets/fonts/Inter/Inter-Thin.ttf");
+}
+
+@font-face {
+    font-family: 'Inter-light';
+    src: url("/assets/fonts/Inter/Inter-Light.ttf");
+}
+
+@font-face {
+    font-family: 'Inter-medium';
+    src: url("/assets/fonts/Inter/Inter-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'Inter-extrabold';
+    src: url("/assets/fonts/Inter/Inter-ExtraBold.ttf");
+}

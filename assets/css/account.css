@@ -1,0 +1,144 @@
+.account__container {
+    width: 82%;
+    margin: 40px auto;
+}
+
+.account__container-head {
+    width: 100%;
+    padding: 10px 0;
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.account__container-head>p>span {
+    color: var(--color-red);
+    font-family: 'Poppins-medium';
+}
+
+.account__container-head-description span:nth-of-type(1) {
+    opacity: 0.5;
+}
+
+.account__container-changes {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 30px 0;
+}
+
+.account__container-changes-aside {
+    width: 30%;
+}
+
+.account__container-changes-aside>ul>li {
+    font-family: 'Poppins-medium';
+    margin: 10px 0;
+}
+
+.aside-list-li {
+    opacity: 0.5;
+    font-size: 0.9rem;
+    margin: 7px 0 7px 7%;
+}
+
+.aside-list-li:hover {
+    color: red;
+}
+
+.list-checked {
+    color: var(--color-light-red);
+}
+
+.account__container-changes-article {
+    width: 70%;
+}
+
+.account__container-changes-article h3 {
+    color: var(--color-red);
+    font-size: 1.4rem;
+    font-family: 'Poppins-medium';
+}
+
+.account-article {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.account-article-design {
+    width: 80%;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.account-article-design>label,
+.account-article label {
+    font-family: 'Poppins-medium';
+}
+
+.account-article-design>label:hover,
+.account-article>label:hover {
+    filter: drop-shadow(3px 2px 2px var(--color-salmon));
+}
+
+#acc-name,
+#acc-address,
+#acc-email,
+#acc-lastname,
+#acc-password,
+#acc-passwordnew,
+#acc-passwordconfirm {
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px;
+    background-color: var(--color-bg-search);
+}
+
+.account-article label {
+    margin: 10px 0;
+}
+
+#acc-email {
+    padding-right: 50px;
+}
+
+#acc-address {
+    padding-right: 25px;
+}
+
+.account-article-design>label:nth-of-type(2),
+.account-article-design>label:nth-of-type(4) {
+    margin-left: 20%;
+}
+
+.search-section-account-main {
+    background-color: var(--color-red);
+    border-radius: 50%;
+    stroke: var(--color-white);
+}
+
+.account-article-btns {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 50px;
+}
+
+.profile-savebtn {
+    background-color: var(--color-red);
+    color: var(--color-white);
+    width: 30%;
+    border: none;
+}
+
+.btn {
+    font-family: 'Poppins-medium';
+}

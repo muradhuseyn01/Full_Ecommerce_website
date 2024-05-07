@@ -1,0 +1,130 @@
+.contact__container {
+    width: 82%;
+    margin: 40px auto;
+}
+
+.nav-lists.active {
+    text-decoration: overline;
+    color: var(--color-red);
+}
+
+.search-section-account svg {
+    background-color: var(--color-white);
+    border-radius: 50%;
+    /* stroke: var(--color-white); */
+}
+
+.account__dropdown ul li a svg {
+    background-color: transparent;
+}
+
+.contact__container-head {
+    width: 100%;
+    font-family: 'Poppins';
+}
+
+.contact__container-head span:nth-of-type(1) {
+    opacity: 0.5;
+}
+
+.contact__container-changes {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 50px 0;
+}
+
+.account__container-changes-calcenter {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.changes-calcenter-up {
+    width: 100%;
+    font-family: 'Poppins-medium';
+    font-size: 0.9rem;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--color-bord);
+}
+
+.changes-calcenter-down {
+    width: 100%;
+    font-family: 'Poppins-medium';
+    font-size: 0.9rem;
+}
+
+.changes-calcenter-up>p,
+.changes-calcenter-down>p {
+    padding: 5px 0;
+}
+
+.calcenter-callto,
+.calcenter-writeto {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Poppins-bold';
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.account__container-changes-form {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 1px 13px 0px rgba(0, 0, 0, 0.05);
+    padding: 15px 0;
+}
+
+.account-contact-design {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+
+.account-contact-design>label>input::placeholder {
+    font-family: 'Poppins';
+    font-size: 1.03rem;
+}
+
+#contact-email,
+#contact-name,
+#contact-phone {
+    width: 100%;
+    padding-right: 50px;
+    margin-top: 8px;
+    padding: 9px;
+    background-color: var(--color-bg-search);
+}
+
+.account__container-changes-form>form>textarea {
+    width: 100%;
+    padding-right: 50px;
+    margin-top: 8px;
+    padding: 9px;
+    background-color: var(--color-bg-search);
+    resize: none;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 1.03rem;
+}
+
+.account-article-btns {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.account-article-btns button {
+    width: 30%;
+    background-color: var(--color-red);
+    color: var(--color-white);
+    border: none;
+}

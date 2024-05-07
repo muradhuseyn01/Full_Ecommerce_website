@@ -1,0 +1,272 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "HAVIT HV-G92 Gamepad",
+            "description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive",
+            "price": "120",
+            "oldprice": "160",
+            "discount": "-40",
+            "image": "./assets/images/image 63.png",
+            "image1": "./assets/images/image 57.png",
+            "image2": "./assets/images/image 58.png",
+            "image3": "./assets/images/image 59.png",
+            "image4": "./assets/images/image 61.png",
+            "categoryId": "6",
+            "categoryName": "Gaming",
+            "rating": {
+                "rate": 5.5,
+                "stars": "./assets/icons/Vector.png",
+                "count": 88
+            }
+        },
+        {
+            "id": "2",
+            "title": "AK-900 Wired Keyboard",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "960",
+            "oldprice": "1160",
+            "discount": "-30",
+            "image": "./assets/images/klv2.png",
+            "image1": "./assets/images/klv-3.png",
+            "image2": "./assets/images/klv-3.png",
+            "image3": "./assets/images/klv-3.png",
+            "image4": "./assets/images/klv-3.png",
+            "categoryId": "2",
+            "categoryName": "Computers",
+            "rating": {
+                "rate": 4.9,
+                "stars": "./assets/icons/Vector.png",
+                "count": 75
+            }
+        },
+        {
+            "id": "3",
+            "title": "IPS LCD Gaming Monitor",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "370",
+            "oldprice": "400",
+            "discount": "-40",
+            "image": "./assets/images/lcd.png",
+            "image1": "./assets/images/lcd.png",
+            "image2": "./assets/images/lcd.png",
+            "image3": "./assets/images/lcd.png",
+            "image4": "./assets/images/lcd.png",
+            "categoryId": "9",
+            "categoryName": "Electronics",
+            "rating": {
+                "rate": 4.9,
+                "stars": "./assets/icons/Vector.png",
+                "count": 99
+            }
+        },
+        {
+            "id": "4",
+            "title": "S-Series Comfort Chair ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "375",
+            "oldprice": "400",
+            "discount": "-49",
+            "image": "./assets/images/sss.png",
+            "image1": "./assets/images/sss.png",
+            "image2": "./assets/images/sss.png",
+            "image3": "./assets/images/sss.png",
+            "image4": "./assets/images/sss.png",
+            "categoryId": "10",
+            "categoryName": "Other",
+            "rating": {
+                "rate": 5,
+                "stars": "./assets/icons/Vector.png",
+                "count": 99
+            }
+        },
+        {
+            "id": "5",
+            "title": "The north coat",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "260",
+            "oldprice": "360",
+            "discount": "-40",
+            "image": "./assets/images/coat2.png",
+            "image1": "./assets/images/coat2.png",
+            "image2": "./assets/images/coat2.png",
+            "image3": "./assets/images/coat2.png",
+            "image4": "./assets/images/coat2.png",
+            "categoryId": "8",
+            "categoryName": "Women's",
+            "rating": {
+                "rate": 3,
+                "stars": "./assets/icons/Vector.png",
+                "count": 75
+            }
+        },
+        {
+            "id": "6",
+            "title": "CANON EOS DSLR Camera",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "120",
+            "oldprice": "160",
+            "discount": "-40",
+            "image": "./assets/images/Camera.png",
+            "image1": "./assets/images/Camera.png",
+            "image2": "./assets/images/Camera.png",
+            "image3": "./assets/images/Camera.png",
+            "image4": "./assets/images/Camera.png",
+            "categoryId": "5",
+            "categoryName": "Camera",
+            "rating": {
+                "rate": 5.5,
+                "stars": "./assets/icons/Vector.png",
+                "count": 7
+            }
+        },
+        {
+            "id": "7",
+            "title": "Mens Jacket New",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "199",
+            "oldprice": "244",
+            "discount": "-10",
+            "image": "./assets/images/man-77.png",
+            "image1": "./assets/images/man-77.png",
+            "image2": "./assets/images/man-77.png",
+            "image3": "./assets/images/man-77.png",
+            "image4": "./assets/images/man-77.png",
+            "categoryId": "7",
+            "categoryName": "Men's",
+            "rating": {
+                "rate": 5.5,
+                "stars": "./assets/icons/Vector.png",
+                "count": 7
+            }
+        },
+        {
+            "id": "8",
+            "title": "Women's Jacket New",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic eveniet repellat quas quis quibusdam sint delectus saepe vero qui!",
+            "price": "199",
+            "oldprice": "244",
+            "discount": "-10",
+            "image": "./assets/images/womans-2.png",
+            "image1": "./assets/images/man-77.png",
+            "image2": "./assets/images/man-77.png",
+            "image3": "./assets/images/man-77.png",
+            "image4": "./assets/images/man-77.png",
+            "categoryId": "8",
+            "categoryName": "Women's",
+            "rating": {
+                "rate": 5.5,
+                "stars": "./assets/icons/Vector.png",
+                "count": 7
+            }
+        }
+    ],
+    "category": [
+        {
+            "id": "1",
+            "name": "Phones",
+            "icon": "./assets/icons/Category-CellPhone.png",
+            "description": "lorem"
+        },
+        {
+            "id": "2",
+            "name": "Computers",
+            "icon": "./assets/icons/Category-Computer.png",
+            "description": "lorem"
+        },
+        {
+            "id": "3",
+            "name": "SmartWatch",
+            "icon": "./assets/images/smart-5.png",
+            "description": "lorem"
+        },
+        {
+            "id": "4",
+            "name": "HeadPhones",
+            "icon": "./assets/icons/Category-HeadPhone.png",
+            "description": "lorem"
+        },
+        {
+            "id": "5",
+            "name": "Camera",
+            "icon": "./assets/icons/Category-Camera.png",
+            "description": "lorem"
+        },
+        {
+            "id": "6",
+            "name": "Gaming",
+            "icon": "./assets/icons/Category-Gamepad.png",
+            "description": "lorem"
+        },
+        {
+            "id": "7",
+            "name": "Men's",
+            "icon": "./assets/images/man-5.png",
+            "description": "lorem"
+        },
+        {
+            "id": "8",
+            "name": "Women's",
+            "icon": "./assets/images/women-icon-14.jpg",
+            "description": "lorem"
+        },
+        {
+            "id": "9",
+            "name": "Electronics",
+            "icon": "./assets/images/electr-2.png",
+            "description": "lorem"
+        },
+        {
+            "id": "10",
+            "name": "Other",
+            "icon": "./assets/images/X-Png-166.png",
+            "description": "lorem"
+        }
+    ],
+    "sliders": [
+        {
+            "id": "1",
+            "image": "./assets/images/iphone.png"
+        },
+        {
+            "id": "2",
+            "image": "./assets/images/swappie-iphone-13-pro-max-silver-back.AVIF"
+        },
+        {
+            "id": "3",
+            "image": "./assets/images/iphone_13_44.png"
+        }
+    ],
+    "staff": [
+        {
+            "id": "1",
+            "name": "Tom Cruise",
+            "duty": "Founder & Chairman",
+            "image": "./assets/images/man.png"
+        },
+        {
+            "id": "2",
+            "name": "Van Diesel",
+            "duty": "Founder & Driver",
+            "image": "./assets/images/woman.png"
+        },
+        {
+            "id": "3",
+            "name": "Emma Watson",
+            "duty": "Managing Director",
+            "image": "./assets/images/man2.png"
+        },
+        {
+            "id": "4",
+            "name": "Will Smith",
+            "duty": "Product Designer",
+            "image": "./assets/images/man.png"
+        },
+        {
+            "id": "5",
+            "name": "Stiv Jobs",
+            "duty": "iT Specalist",
+            "image": "./assets/images/man2.png"
+        }
+    ]
+}
